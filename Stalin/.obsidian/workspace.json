@@ -11,8 +11,12 @@
             "id": "71461fe48721698f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "index.md"
+              }
             }
           }
         ]
@@ -141,6 +149,36 @@
   },
   "active": "71461fe48721698f",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Pasted image 20240403222120.png",
+    "Pasted image 20240403221929.png",
+    "Pasted image 20240403221811.png",
+    "Pasted image 20240403221616.png",
+    "Pasted image 20240403220658.png",
+    "Pasted image 20240403220215.png",
+    "Сталин/00.md",
+    "Сталин/18 Том/16.md",
+    "Сталин/18 Том/15.md",
+    "Сталин/18 Том/14.md",
+    "Сталин/18 Том/13.md",
+    "Сталин/18 Том/12.md",
+    "Сталин/18 Том/11.md",
+    "Сталин/18 Том/10.md",
+    "Сталин/18 Том/09.md",
+    "Сталин/18 Том/08.md",
+    "Сталин/18 Том/07.md",
+    "Сталин/18 Том/06.md",
+    "Сталин/18 Том/05.md",
+    "Сталин/18 Том/04.md",
+    "Сталин/18 Том/03.md",
+    "Сталин/18 Том/02.md",
+    "Сталин/18 Том/01.md",
+    "Сталин/18 Том/00.md",
+    "Сталин/17 Том/21.md",
+    "Сталин/17 Том/20.md",
+    "Сталин/17 Том/19.md",
+    "Сталин/17 Том/18.md",
+    "Сталин/17 Том/17.md",
+    "Сталин/17 Том/16.md",
+    "Сталин/17 Том/15.md"
   ]
 }
